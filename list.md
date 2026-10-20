@@ -90,3 +90,4 @@
 - [中小微企业生存压力，关系到大量普通人就业](https://github.com/liu-minwws/IGAGjg/commit/c16aac4379649e45094f651992e3a7e51d7597e6)
 - [城市行道更新，适应极端气候的城市绿化](https://github.com/liu-minwws/IGAGjg/commit/c465e55a690c5b64e511d8cff88f7b71e826ee2a)
 - [日志采样打印源码 完整源码按比例采样减少日志输出量](https://github.com/liu-minwws/IGAGjg/commit/0a04eeacd88dbcb1a079ec3e415f2db71c757e25)
+- [内存缓存模拟开源仓库 完整源码演示缓存过期淘汰逻辑](https://github.com/liu-minwws/IGAGjg/commit/5b30670da6ee4fa62278a9e974657bef6a3c2895)
