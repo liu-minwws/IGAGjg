@@ -96,3 +96,4 @@
 - [websocket 会话管理源码 完整源码维护 websocket 连接会话池](https://github.com/liu-minwws/IGAGjg/commit/8aea33fb5d96d78835018f13f0e12cd0cb8435cd)
 - [代码仓库迁移到Gitea Codeberg，迁移踩坑要点](https://github.com/liu-minwws/IGAGjg/commit/6e5fde07ee0f15ac56b5eb83f4f32504e53ebd8f)
 - [农产品丰产不丰收深层原因解析](https://github.com/liu-minwws/IGAGjg/commit/7bdca1f73d681585bf08a1f40c7e04389ba8406b)
+- [缓存逻辑演示开源项目 完整源码附带缓存淘汰策略调优参考](https://github.com/liu-minwws/IGAGjg/commit/7784366a01687c9e9ba5d86c9d116beadaa698f0)
