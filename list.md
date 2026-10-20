@@ -86,3 +86,4 @@
 - [内网Web服务探测脚本，扫描内网站点输出清单](https://github.com/liu-minwws/IGAGjg/commit/2ba1912ef524e395e2c92398b3b1a93e33f37b78)
 - [批量图片水印嵌入工具，文字图片水印位置透明度自定义](https://github.com/liu-minwws/IGAGjg/commit/7c0908be1909689724cf5b0039bc50a344d61214)
 - [文件递归查找指定后缀开源仓库 完整源码筛选特定格式文件](https://github.com/liu-minwws/IGAGjg/commit/6339573e97191cb360c8f2d66b162f9d48422b3f)
+- [开源监控告警模板，告警泛滥造成告警疲劳](https://github.com/liu-minwws/IGAGjg/commit/23077f1630c5bcdde847c6abc9c0fdf4a3d761e9)
