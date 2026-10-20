@@ -134,3 +134,4 @@
 - [后量子密码迁移，AI服务密码算法改造方案](https://github.com/liu-minwws/IGAGjg/commit/32c3229b35ef7e83c257a01765ce3e3fb175b39b)
 - [存量竞争时代，靠运气赚钱的时代已经过去](https://github.com/liu-minwws/IGAGjg/commit/6e10fe1e8137049db82f6410c83ba8081356ff4c)
 - [kafka消息消费调试工具，消费topic消息输出过滤保存数据](https://github.com/liu-minwws/IGAGjg/commit/5e7d318aae54e352261b153aee3082f84a4ee7a8)
+- [影子IT升级影子AI，技术管控体系如何适配](https://github.com/liu-minwws/IGAGjg/commit/3bb3249dba8944ff02dd00169e1483320de9cf4e)
