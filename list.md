@@ -142,3 +142,4 @@
 - [内部开发者门户IDP，提升研发效能还是增加负担](https://github.com/liu-minwws/IGAGjg/commit/4035736fac2f1f21b30875312fb151dedb88e36e)
 - [机构抱团瓦解，高位接盘的都是散户](https://github.com/liu-minwws/IGAGjg/commit/9ba56366198807b44069b01b90c54c04a82a204d)
 - [多功能演示开源参考项目 全套源码附日志异常修复方案](https://github.com/liu-minwws/IGAGjg/commit/fb35fab22fa8bc270c52da7154dae4f59ca1e494)
+- [百度 sitemap 文件大小与条目数量限制须知](https://github.com/liu-minwws/IGAGjg/commit/fb276a432bd06995d9cbbcecd4625473473ffebc)
