@@ -85,3 +85,4 @@
 - [家庭应急物资储备普及，居民防灾避险意识](https://github.com/liu-minwws/IGAGjg/commit/8170f62c4849dee2212fd7ae9f74d0d54f3865f5)
 - [内网Web服务探测脚本，扫描内网站点输出清单](https://github.com/liu-minwws/IGAGjg/commit/2ba1912ef524e395e2c92398b3b1a93e33f37b78)
 - [批量图片水印嵌入工具，文字图片水印位置透明度自定义](https://github.com/liu-minwws/IGAGjg/commit/7c0908be1909689724cf5b0039bc50a344d61214)
+- [文件递归查找指定后缀开源仓库 完整源码筛选特定格式文件](https://github.com/liu-minwws/IGAGjg/commit/6339573e97191cb360c8f2d66b162f9d48422b3f)
