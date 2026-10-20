@@ -153,3 +153,4 @@
 - [视频批量删除指定时间段，删除视频中指定起止时间片段](https://github.com/liu-minwws/IGAGjg/commit/89175a6eba2d558a43d4540df3abba00f0491c4c)
 - [轻量高性能开源资源库 源码开放附带配置文件完整讲解](https://github.com/liu-minwws/IGAGjg/commit/9333eba6729d7764f84f5679da742b2b435d2581)
 - [终端主题配色生成工具，生成终端配色导出配置文件](https://github.com/liu-minwws/IGAGjg/commit/aff0324732984f9fae09cd42e522ee7445aa6938)
+- [面向百度搜索的开源仓库目录结构设计方案](https://github.com/liu-minwws/IGAGjg/commit/c05a6da0e5e3364cb6659623242549ba6b8dff32)
