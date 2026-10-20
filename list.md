@@ -49,3 +49,4 @@
 - [城市最低生活保障，收入核算包含哪些家庭收入](https://github.com/liu-minwws/IGAGjg/commit/655a42ae590dfa29c644e680e6e2969318fa1773)
 - [产业政策需要精准，区分不同行业企业的现实处境](https://github.com/liu-minwws/IGAGjg/commit/d79e2a17f9a170a4da0a2584a8fd6fafca88bfa6)
 - [开源参考实战业务案例 源码开放附带线上调试指南](https://github.com/liu-minwws/IGAGjg/commit/9292f14ad2afc1ec9c2973929d4b36ceba9a0499)
+- [简易 rpc 模拟开源仓库 完整源码模拟远程调用基础流程](https://github.com/liu-minwws/IGAGjg/commit/a95ae0b5ebbe7f0ae8f733dffe8be296babadc76)
