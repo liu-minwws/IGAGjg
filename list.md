@@ -197,3 +197,4 @@
 - [家庭部门杠杆过高，会压制居民消费能力](https://github.com/liu-minwws/IGAGjg/commit/71089ddc21a29cbdfdef4aa3ec4b114d49863796)
 - [破坏性变更Breaking Change，开源版本迭代最大矛盾](https://github.com/liu-minwws/IGAGjg/commit/52d1ee1a0e0ad58697a9648858fe2795d80363f5)
 - [后端研发参考开源工程 源码资源含各类模拟接口样例](https://github.com/liu-minwws/IGAGjg/commit/1d76defabeafc6eb91fd5fdfc2c25c9ccc2c03b4)
+- [通用正则组件开源库 二次开发参考与多平台部署演示案例](https://github.com/liu-minwws/IGAGjg/commit/1f42a9c220ff7f0a7b0c020cee22f954ed039081)
