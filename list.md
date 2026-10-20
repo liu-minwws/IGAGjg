@@ -42,3 +42,4 @@
 - [开源复刻山寨项目，复刻修改改名蹭热度](https://github.com/liu-minwws/IGAGjg/commit/a8ec99d6b9eb590fd10c913d53b075280ef1fa00)
 - [LLM RAG检索增强生成常见失效根因与调优方案](https://github.com/liu-minwws/IGAGjg/commit/0ed892735c83c8186ee82a97ffa06b8bdcd52789)
 - [保险销售行为新规普通人买保险要看清哪些收费陷阱](https://github.com/liu-minwws/IGAGjg/commit/680f4ef57a873b8a6760190e31b6a51426f481db)
+- [GitHub仓库PR合并条件批量校验工具](https://github.com/liu-minwws/IGAGjg/commit/3f6334481f3da606935748c05228d39e58511d0f)
