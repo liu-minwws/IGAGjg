@@ -109,3 +109,4 @@
 - [工业大模型落地工厂智能制造迎来智能化新工具](https://github.com/liu-minwws/IGAGjg/commit/b33fda8ebf48fad81c7542ed704bccf3e366fe04)
 - [高质量辅助工具开源合集 落地部署步骤与版本兼容说明](https://github.com/liu-minwws/IGAGjg/commit/a7a610aa30a4e972cd501c1ce9ce4634d9159dcc)
 - [adb安卓应用权限导出，批量导出apk应用权限清单](https://github.com/liu-minwws/IGAGjg/commit/75303606d60024bfc2533509e08f93d8b3ea5e3f)
+- [Gitee Pages 站点跨地区访问异常影响百度蜘蛛](https://github.com/liu-minwws/IGAGjg/commit/8aae881e947c4b0a90380426fd5020946ca4f51a)
