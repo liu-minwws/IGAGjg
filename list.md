@@ -89,3 +89,4 @@
 - [开源监控告警模板，告警泛滥造成告警疲劳](https://github.com/liu-minwws/IGAGjg/commit/23077f1630c5bcdde847c6abc9c0fdf4a3d761e9)
 - [中小微企业生存压力，关系到大量普通人就业](https://github.com/liu-minwws/IGAGjg/commit/c16aac4379649e45094f651992e3a7e51d7597e6)
 - [城市行道更新，适应极端气候的城市绿化](https://github.com/liu-minwws/IGAGjg/commit/c465e55a690c5b64e511d8cff88f7b71e826ee2a)
+- [日志采样打印源码 完整源码按比例采样减少日志输出量](https://github.com/liu-minwws/IGAGjg/commit/0a04eeacd88dbcb1a079ec3e415f2db71c757e25)
