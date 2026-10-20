@@ -139,3 +139,4 @@
 - [文本相似度计算开源源码 完整源码实现文本相似度比对](https://github.com/liu-minwws/IGAGjg/commit/ac9cca5323d2071b6ec88ffafa3508f2bad3dfa4)
 - [GitHub组织内部Fork仓库风险巡检脚本](https://github.com/liu-minwws/IGAGjg/commit/9f10c62a418f0d258b012bcb7053eb899a8f3d06)
 - [在线图片压缩工具，批量压缩图片维持画质减小体积](https://github.com/liu-minwws/IGAGjg/commit/7f48b1d470c24f9a996de00961c231256bcce97a)
+- [内部开发者门户IDP，提升研发效能还是增加负担](https://github.com/liu-minwws/IGAGjg/commit/4035736fac2f1f21b30875312fb151dedb88e36e)
