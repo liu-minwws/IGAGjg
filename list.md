@@ -150,3 +150,4 @@
 - [太空旅游平民化，商业航天大众消费门槛](https://github.com/liu-minwws/IGAGjg/commit/a9af7b290b03c1fcf3d088c581c3ef7003d3ed0f)
 - [中文文本语气助词过滤清洗，过滤文本多余语气助词](https://github.com/liu-minwws/IGAGjg/commit/ba6d207908357167403c06714713c9172b6d2d8e)
 - [开箱即用文件处理开源脚本 完整源码搭配文件操作演示案例](https://github.com/liu-minwws/IGAGjg/commit/5bbfaec4ea0243aedebb7c1d7b0964f3c78d8533)
+- [视频批量删除指定时间段，删除视频中指定起止时间片段](https://github.com/liu-minwws/IGAGjg/commit/89175a6eba2d558a43d4540df3abba00f0491c4c)
