@@ -115,3 +115,4 @@
 - [接口参数不兼容，小版本更新引发线上故障](https://github.com/liu-minwws/IGAGjg/commit/9a0933accd56022444121f10bf69e7219c8deb98)
 - [离线优先Web应用，PWA结合本地大模型实践](https://github.com/liu-minwws/IGAGjg/commit/ffc8e387a7886d3f5d2d2eaeb48799e83abd6c9f)
 - [GitHub Sponsors赞助，国内开发者收款障碍](https://github.com/liu-minwws/IGAGjg/commit/7875882b0b82475ce59e8c5da1b0c58849867c1c)
+- [本地简易socks5客户端调试工具，测试socks5代理连通与延时](https://github.com/liu-minwws/IGAGjg/commit/b7d8544bf3d50f9e27328ff7c27aa917b7dde0cf)
