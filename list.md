@@ -113,3 +113,4 @@
 - [车联网软件安全，OTA升级漏洞批量风险](https://github.com/liu-minwws/IGAGjg/commit/8888ef93e8f361fcfd34ef187b54e6cd1da75b46)
 - [GitHub 仓库附件资源链接失效风险规避方案](https://github.com/liu-minwws/IGAGjg/commit/126371a5a2b3911e779aa93f5a41ae3e63af5308)
 - [接口参数不兼容，小版本更新引发线上故障](https://github.com/liu-minwws/IGAGjg/commit/9a0933accd56022444121f10bf69e7219c8deb98)
+- [离线优先Web应用，PWA结合本地大模型实践](https://github.com/liu-minwws/IGAGjg/commit/ffc8e387a7886d3f5d2d2eaeb48799e83abd6c9f)
