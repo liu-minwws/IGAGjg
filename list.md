@@ -187,3 +187,4 @@
 - [矿山生态修复项目放量环境治理细分赛道迎来机遇](https://github.com/liu-minwws/IGAGjg/commit/6abbf741ecc4e6d5c0efcd9d9ea6e65d34c5003f)
 - [日志敏感数据脱敏组件，拦截身份证手机号防止明文泄露](https://github.com/liu-minwws/IGAGjg/commit/2a0c0e34359e45e19a9b4abd11904a9d9cb5d803)
 - [餐饮连锁供应链集采规模化压缩食材成本空间](https://github.com/liu-minwws/IGAGjg/commit/d020d4196d98d992f72a3731dcd451e900e0c886)
+- [多云模型镜像仓库，跨云权重分发权限管控](https://github.com/liu-minwws/IGAGjg/commit/5110787449988e77edeab5f3e83bdbff9946e9f0)
