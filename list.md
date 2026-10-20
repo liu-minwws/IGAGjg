@@ -105,3 +105,4 @@
 - [日志场景开源项目分享 完整源码搭配本地环境排错文档](https://github.com/liu-minwws/IGAGjg/commit/9712e258fcf3406d5f5759516324bd583226d806)
 - [固态电池中试推进距离大规模装车还有多久时间窗口](https://github.com/liu-minwws/IGAGjg/commit/28038f6df5b43ea437f303d40d199ec28d497734)
 - [ssh known_hosts条目批量导入导出，批量管理known_hosts主机条目](https://github.com/liu-minwws/IGAGjg/commit/400793275e3f1229e2afe5e707faa4d191f8d724)
+- [副业月入过万神话，大多都是营销套路](https://github.com/liu-minwws/IGAGjg/commit/d8a636413a3ff85c95ff8242a43f28033274c1eb)
