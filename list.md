@@ -23,3 +23,4 @@
 - [GitHub仓库Dependabot配置批量巡检脚本](https://github.com/liu-minwws/IGAGjg/commit/d6fba4eedd78a3f3f852bdb41ecd1b3712de6dcc)
 - [量化算法选型，INT4/INT8业务场景适配](https://github.com/liu-minwws/IGAGjg/commit/1f99407f46178b5772cc45eb80785e53a0db7bc1)
 - [Gitee Pages 自定义域名提交百度收录完整流程](https://github.com/liu-minwws/IGAGjg/commit/f9c3b0b4b90ec2b30cffdb51e2ea181226c3c378)
+- [银行理财子公司布局养老理财养老产品供给持续丰富](https://github.com/liu-minwws/IGAGjg/commit/8e1d5874f1c7a837b86d83936b81a60fe17c436b)
