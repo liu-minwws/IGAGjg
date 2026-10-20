@@ -12,3 +12,4 @@
 - [语音实时流式转写服务，低延迟麦克风音频识别输出文本](https://github.com/liu-minwws/IGAGjg/commit/55c7588adc10e4d13cb580dbe3898948e2e9fbff)
 - [国产OS Agent中间件研发，端侧智能生态短板](https://github.com/liu-minwws/IGAGjg/commit/a7c5c9a4d82bbf2c2b00d2311c4cc0b8ab6c3854)
 - [志愿活动管理系统，工时统计证书生成报名签到项目](https://github.com/liu-minwws/IGAGjg/commit/8c0008aa223a6be615026acc808496ac82dc6440)
+- [预编译Release二进制，无法复现编译构建过程](https://github.com/liu-minwws/IGAGjg/commit/3a5437dbccc7f7cdcbf0613df0fbb2c20cdd7526)
