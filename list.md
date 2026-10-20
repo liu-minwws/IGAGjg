@@ -177,3 +177,4 @@
 - [面向百度的开源 README 文档完整撰写模板](https://github.com/liu-minwws/IGAGjg/commit/c8497c0213a70990a06c71b6ddf7863376bcba3d)
 - [git ref引用完整性校验，检测git引用指向对象是否存在](https://github.com/liu-minwws/IGAGjg/commit/faf485c0893e09f8a6f8efe43d3544467b904ba5)
 - [AR眼镜量产落地消费级AR能否打开全新消费场景](https://github.com/liu-minwws/IGAGjg/commit/bda40f6184932a62934fa9b63cf28401a8102a7b)
+- [本地快速部署开源源码库 源码资源配套测试环境初始化](https://github.com/liu-minwws/IGAGjg/commit/aac8fe938d637544a8adc768a64b2cb608c73560)
