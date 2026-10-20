@@ -171,3 +171,4 @@
 - [体检机构过度体检营销乱象整治](https://github.com/liu-minwws/IGAGjg/commit/31832e63cfada02a1799e56b21ffad5ca10a6e50)
 - [Git仓库导出工具，剥离git历史导出纯净源码包](https://github.com/liu-minwws/IGAGjg/commit/af64a4717de5634cfb8009224a4e62499ea54d2b)
 - [字幕合并分割工具，按时间切分合并字幕文件](https://github.com/liu-minwws/IGAGjg/commit/a1bd7e853337196b06971c9f8ecb9baecc3d30dd)
+- [个人征信优化，减少过度征信惩戒现象](https://github.com/liu-minwws/IGAGjg/commit/43f6b49ebe0db3345f708b7c35e53fbf0cd6caf9)
