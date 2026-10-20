@@ -160,3 +160,4 @@
 - [物资回收登记开源系统，分类统计回收记录导出报表](https://github.com/liu-minwws/IGAGjg/commit/ee419271d40c2ff1b66685a1cdc985311e768503)
 - [人口流动新格局，城市如何适配新的人口结构发展](https://github.com/liu-minwws/IGAGjg/commit/82f9beaae7b19d907e126eb2c1bc9b8640f9c04d)
 - [视频帧率批量转换脚本，统一视频输出帧率](https://github.com/liu-minwws/IGAGjg/commit/5c244c17f5b7f1f618dfb3859dbe96c0229107f7)
+- [前端练手业务组件开源仓库 完整源码提供组件接入实操文档](https://github.com/liu-minwws/IGAGjg/commit/d2c4cdc736d6f0034e50cfdc26e14818fa47e7ae)
