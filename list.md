@@ -51,3 +51,4 @@
 - [开源参考实战业务案例 源码开放附带线上调试指南](https://github.com/liu-minwws/IGAGjg/commit/9292f14ad2afc1ec9c2973929d4b36ceba9a0499)
 - [简易 rpc 模拟开源仓库 完整源码模拟远程调用基础流程](https://github.com/liu-minwws/IGAGjg/commit/a95ae0b5ebbe7f0ae8f733dffe8be296babadc76)
 - [开发者实用开源源码项目 全套源码包含自定义改造示例](https://github.com/liu-minwws/IGAGjg/commit/ac272b3b67917e82bd287d1bb6e34570b78e3b8a)
+- [小金属赛道迎来催化稀有金属下游新兴需求持续释放](https://github.com/liu-minwws/IGAGjg/commit/bd095dfc3e810d22f71ba19b3d2fa1282c2819ba)
