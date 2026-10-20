@@ -135,3 +135,4 @@
 - [存量竞争时代，靠运气赚钱的时代已经过去](https://github.com/liu-minwws/IGAGjg/commit/6e10fe1e8137049db82f6410c83ba8081356ff4c)
 - [kafka消息消费调试工具，消费topic消息输出过滤保存数据](https://github.com/liu-minwws/IGAGjg/commit/5e7d318aae54e352261b153aee3082f84a4ee7a8)
 - [影子IT升级影子AI，技术管控体系如何适配](https://github.com/liu-minwws/IGAGjg/commit/3bb3249dba8944ff02dd00169e1483320de9cf4e)
+- [AI生成代码大量涌入开源仓库，维护者审核压力暴增](https://github.com/liu-minwws/IGAGjg/commit/44eb3c5bbc6f03a761553532ae471a507d5fe61d)
