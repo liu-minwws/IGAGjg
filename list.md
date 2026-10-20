@@ -184,3 +184,4 @@
 - [社区积分兑换系统，任务获取积分商品兑换订单报表](https://github.com/liu-minwws/IGAGjg/commit/07e73d465f43308469af94dd31af8f9f01c76f0d)
 - [开源 README 梳理完整新手学习阅读路线指引](https://github.com/liu-minwws/IGAGjg/commit/459a9ee9f6d733b505b8c5a4fa09ef09435307ad)
 - [HBM供应链波动，AI集群建设带来的行业风险](https://github.com/liu-minwws/IGAGjg/commit/020f606621268e5cfdf80be4342944c1060f0494)
+- [矿山生态修复项目放量环境治理细分赛道迎来机遇](https://github.com/liu-minwws/IGAGjg/commit/6abbf741ecc4e6d5c0efcd9d9ea6e65d34c5003f)
