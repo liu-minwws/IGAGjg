@@ -157,3 +157,4 @@
 - [GitHub 表格处理开源项目 可运行源码附带数据导出调试示例](https://github.com/liu-minwws/IGAGjg/commit/6a5c8cefc6a94da1bc37fd5d9fa15dcb0f2e3964)
 - [GitHub 仓库 README 摘要写好提升百度展示效果](https://github.com/liu-minwws/IGAGjg/commit/5e39b261c54de97760f3739844ad8b48f14607a5)
 - [Gitee Pages 部署完成验证爬虫可访问性](https://github.com/liu-minwws/IGAGjg/commit/6e551d7acc7357ebdd441c138b9d5ae1ed9b9722)
+- [物资回收登记开源系统，分类统计回收记录导出报表](https://github.com/liu-minwws/IGAGjg/commit/ee419271d40c2ff1b66685a1cdc985311e768503)
