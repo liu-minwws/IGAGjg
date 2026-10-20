@@ -100,3 +100,4 @@
 - [县域电商物流成本偏高，制约下沉市场消费潜力释放](https://github.com/liu-minwws/IGAGjg/commit/3ebf71b3c6c78f228a30cfdc5d6e8c6171d4f49d)
 - [真实业务模拟开源案例仓库 可复用源码与模块集成开发指南](https://github.com/liu-minwws/IGAGjg/commit/6e52915020d03a7a157d1c5aa57a43c474aba86c)
 - [多字段复合条件过滤开源仓库 完整源码数据集多条件筛选](https://github.com/liu-minwws/IGAGjg/commit/efe3874c2bef0191b597a6ee91faebe871c8554a)
+- [开源项目健康度评估，不止看Star看真实活跃度](https://github.com/liu-minwws/IGAGjg/commit/7737e6c41809f1fe25f76de004457765c4b1dbda)
