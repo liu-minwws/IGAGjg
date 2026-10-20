@@ -55,3 +55,4 @@
 - [宠物经济维持高景气宠物医疗食品细分赛道机会](https://github.com/liu-minwws/IGAGjg/commit/f897e8d778568610b7de069d1e853405ac62da45)
 - [高效实战开源工程分享 源码资源配套二次开发实操文档](https://github.com/liu-minwws/IGAGjg/commit/ff5d96bc271dc29fd28bf95459f30906adeb9342)
 - [开源自动化业务脚本仓库 源码开放包含业务扩展开发](https://github.com/liu-minwws/IGAGjg/commit/aa6c1049bb131021537e4301770567ca92ffc936)
+- [拿来即用开源组件 源码资源搭配调试排错手册](https://github.com/liu-minwws/IGAGjg/commit/651ae168679b151968abc5ccb8efba359db3ebd6)
