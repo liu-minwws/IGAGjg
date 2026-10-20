@@ -16,3 +16,4 @@
 - [长期护理保险报销范围失能老人哪些护理可以报销](https://github.com/liu-minwws/IGAGjg/commit/d98ac1c254f5378e1b4a7fa3bc226ed23a9ab871)
 - [OpenEuler异构算力驱动完善，AI业务生态补齐](https://github.com/liu-minwws/IGAGjg/commit/a155e76d4a0a76eaae3b6e1b150ca9a99f93c30d)
 - [docker容器环境变量注入测试，模拟向容器注入环境变量调试](https://github.com/liu-minwws/IGAGjg/commit/2af1be5985757d3d0ae92035b69d3803ea222455)
+- [开发人员开源代码分享仓库 工程源码搭配生产环境部署](https://github.com/liu-minwws/IGAGjg/commit/18e4482803ac04d7374529df6c46cbd2bc712a14)
