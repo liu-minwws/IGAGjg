@@ -176,3 +176,4 @@
 - [RAG混合检索重排序，reranker线上性能代价](https://github.com/liu-minwws/IGAGjg/commit/bf821f3da7d5477d331bd161404577d1e5e62bcd)
 - [面向百度的开源 README 文档完整撰写模板](https://github.com/liu-minwws/IGAGjg/commit/c8497c0213a70990a06c71b6ddf7863376bcba3d)
 - [git ref引用完整性校验，检测git引用指向对象是否存在](https://github.com/liu-minwws/IGAGjg/commit/faf485c0893e09f8a6f8efe43d3544467b904ba5)
+- [AR眼镜量产落地消费级AR能否打开全新消费场景](https://github.com/liu-minwws/IGAGjg/commit/bda40f6184932a62934fa9b63cf28401a8102a7b)
