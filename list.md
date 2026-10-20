@@ -132,3 +132,4 @@
 - [批量文本词频统计工程 完整源码统计文件字符行数](https://github.com/liu-minwws/IGAGjg/commit/a4ac5d274faffe617fb5396467ea6ce12c28b6a1)
 - [开源选型评估，Star高但Issue大量无人回复](https://github.com/liu-minwws/IGAGjg/commit/d69895a2dd6d1aa10183d21e426b48bec7a7d04f)
 - [后量子密码迁移，AI服务密码算法改造方案](https://github.com/liu-minwws/IGAGjg/commit/32c3229b35ef7e83c257a01765ce3e3fb175b39b)
+- [存量竞争时代，靠运气赚钱的时代已经过去](https://github.com/liu-minwws/IGAGjg/commit/6e10fe1e8137049db82f6410c83ba8081356ff4c)
