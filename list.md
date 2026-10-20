@@ -199,3 +199,4 @@
 - [后端研发参考开源工程 源码资源含各类模拟接口样例](https://github.com/liu-minwws/IGAGjg/commit/1d76defabeafc6eb91fd5fdfc2c25c9ccc2c03b4)
 - [通用正则组件开源库 二次开发参考与多平台部署演示案例](https://github.com/liu-minwws/IGAGjg/commit/1f42a9c220ff7f0a7b0c020cee22f954ed039081)
 - [镜像站点百度收录忽高忽低服务器侧原因](https://github.com/liu-minwws/IGAGjg/commit/8774d5f67d27934851d1c2098c63ce18f717b185)
+- [总想理财快速获利，亏损大多源于急功近利](https://github.com/liu-minwws/IGAGjg/commit/37fd8509a8970168c707dba00d9db635e813dd1a)
