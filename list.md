@@ -161,3 +161,4 @@
 - [人口流动新格局，城市如何适配新的人口结构发展](https://github.com/liu-minwws/IGAGjg/commit/82f9beaae7b19d907e126eb2c1bc9b8640f9c04d)
 - [视频帧率批量转换脚本，统一视频输出帧率](https://github.com/liu-minwws/IGAGjg/commit/5c244c17f5b7f1f618dfb3859dbe96c0229107f7)
 - [前端练手业务组件开源仓库 完整源码提供组件接入实操文档](https://github.com/liu-minwws/IGAGjg/commit/d2c4cdc736d6f0034e50cfdc26e14818fa47e7ae)
+- [字体字形预览网页工具，上传字体生成字符预览页面](https://github.com/liu-minwws/IGAGjg/commit/20e6c9146b42771ae8e9be2a2676a52381cf364c)
