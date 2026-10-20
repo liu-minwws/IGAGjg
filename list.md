@@ -170,3 +170,4 @@
 - [训练推理混部集群，突发训练冲击在线业务](https://github.com/liu-minwws/IGAGjg/commit/ac57b54c7affd0217ea345cacb4ef3fb787070ef)
 - [体检机构过度体检营销乱象整治](https://github.com/liu-minwws/IGAGjg/commit/31832e63cfada02a1799e56b21ffad5ca10a6e50)
 - [Git仓库导出工具，剥离git历史导出纯净源码包](https://github.com/liu-minwws/IGAGjg/commit/af64a4717de5634cfb8009224a4e62499ea54d2b)
+- [字幕合并分割工具，按时间切分合并字幕文件](https://github.com/liu-minwws/IGAGjg/commit/a1bd7e853337196b06971c9f8ecb9baecc3d30dd)
