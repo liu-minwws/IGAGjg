@@ -103,3 +103,4 @@
 - [开源项目健康度评估，不止看Star看真实活跃度](https://github.com/liu-minwws/IGAGjg/commit/7737e6c41809f1fe25f76de004457765c4b1dbda)
 - [存算一体推理部署，软件栈编译适配痛点](https://github.com/liu-minwws/IGAGjg/commit/338f3833e750ff20252d30b503e47c1313003902)
 - [日志场景开源项目分享 完整源码搭配本地环境排错文档](https://github.com/liu-minwws/IGAGjg/commit/9712e258fcf3406d5f5759516324bd583226d806)
+- [固态电池中试推进距离大规模装车还有多久时间窗口](https://github.com/liu-minwws/IGAGjg/commit/28038f6df5b43ea437f303d40d199ec28d497734)
