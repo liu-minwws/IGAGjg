@@ -151,3 +151,4 @@
 - [中文文本语气助词过滤清洗，过滤文本多余语气助词](https://github.com/liu-minwws/IGAGjg/commit/ba6d207908357167403c06714713c9172b6d2d8e)
 - [开箱即用文件处理开源脚本 完整源码搭配文件操作演示案例](https://github.com/liu-minwws/IGAGjg/commit/5bbfaec4ea0243aedebb7c1d7b0964f3c78d8533)
 - [视频批量删除指定时间段，删除视频中指定起止时间片段](https://github.com/liu-minwws/IGAGjg/commit/89175a6eba2d558a43d4540df3abba00f0491c4c)
+- [轻量高性能开源资源库 源码开放附带配置文件完整讲解](https://github.com/liu-minwws/IGAGjg/commit/9333eba6729d7764f84f5679da742b2b435d2581)
