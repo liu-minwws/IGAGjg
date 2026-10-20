@@ -30,3 +30,4 @@
 - [农产品价格波动，关乎农民收入与物价稳定](https://github.com/liu-minwws/IGAGjg/commit/d26a07589a38af719c76a3b69f54ab216ee0446a)
 - [开源工具实战源码集 完整实现代码与故障排查方案](https://github.com/liu-minwws/IGAGjg/commit/98288a7303e7fac762003c9e7451dfc2fcf0dcd1)
 - [再生涤纶产业扩张塑料循环经济产业规模提升](https://github.com/liu-minwws/IGAGjg/commit/e04739c0ecce8626ddaaf13d2a3e4cd42f16672c)
+- [轻量化脚本开源代码合集 项目源码搭配运行异常处理手册](https://github.com/liu-minwws/IGAGjg/commit/74f5389fc61a3f27b5b4fec4d7568888c62f1d95)
