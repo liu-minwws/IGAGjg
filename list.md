@@ -107,3 +107,4 @@
 - [ssh known_hosts条目批量导入导出，批量管理known_hosts主机条目](https://github.com/liu-minwws/IGAGjg/commit/400793275e3f1229e2afe5e707faa4d191f8d724)
 - [副业月入过万神话，大多都是营销套路](https://github.com/liu-minwws/IGAGjg/commit/d8a636413a3ff85c95ff8242a43f28033274c1eb)
 - [工业大模型落地工厂智能制造迎来智能化新工具](https://github.com/liu-minwws/IGAGjg/commit/b33fda8ebf48fad81c7542ed704bccf3e366fe04)
+- [高质量辅助工具开源合集 落地部署步骤与版本兼容说明](https://github.com/liu-minwws/IGAGjg/commit/a7a610aa30a4e972cd501c1ce9ce4634d9159dcc)
