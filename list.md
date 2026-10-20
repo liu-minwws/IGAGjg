@@ -97,3 +97,4 @@
 - [代码仓库迁移到Gitea Codeberg，迁移踩坑要点](https://github.com/liu-minwws/IGAGjg/commit/6e5fde07ee0f15ac56b5eb83f4f32504e53ebd8f)
 - [农产品丰产不丰收深层原因解析](https://github.com/liu-minwws/IGAGjg/commit/7bdca1f73d681585bf08a1f40c7e04389ba8406b)
 - [缓存逻辑演示开源项目 完整源码附带缓存淘汰策略调优参考](https://github.com/liu-minwws/IGAGjg/commit/7784366a01687c9e9ba5d86c9d116beadaa698f0)
+- [县域电商物流成本偏高，制约下沉市场消费潜力释放](https://github.com/liu-minwws/IGAGjg/commit/3ebf71b3c6c78f228a30cfdc5d6e8c6171d4f49d)
