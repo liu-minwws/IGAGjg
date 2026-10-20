@@ -14,3 +14,4 @@
 - [志愿活动管理系统，工时统计证书生成报名签到项目](https://github.com/liu-minwws/IGAGjg/commit/8c0008aa223a6be615026acc808496ac82dc6440)
 - [预编译Release二进制，无法复现编译构建过程](https://github.com/liu-minwws/IGAGjg/commit/3a5437dbccc7f7cdcbf0613df0fbb2c20cdd7526)
 - [长期护理保险报销范围失能老人哪些护理可以报销](https://github.com/liu-minwws/IGAGjg/commit/d98ac1c254f5378e1b4a7fa3bc226ed23a9ab871)
+- [OpenEuler异构算力驱动完善，AI业务生态补齐](https://github.com/liu-minwws/IGAGjg/commit/a155e76d4a0a76eaae3b6e1b150ca9a99f93c30d)
