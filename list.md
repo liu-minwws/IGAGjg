@@ -53,3 +53,4 @@
 - [开发者实用开源源码项目 全套源码包含自定义改造示例](https://github.com/liu-minwws/IGAGjg/commit/ac272b3b67917e82bd287d1bb6e34570b78e3b8a)
 - [小金属赛道迎来催化稀有金属下游新兴需求持续释放](https://github.com/liu-minwws/IGAGjg/commit/bd095dfc3e810d22f71ba19b3d2fa1282c2819ba)
 - [宠物经济维持高景气宠物医疗食品细分赛道机会](https://github.com/liu-minwws/IGAGjg/commit/f897e8d778568610b7de069d1e853405ac62da45)
+- [高效实战开源工程分享 源码资源配套二次开发实操文档](https://github.com/liu-minwws/IGAGjg/commit/ff5d96bc271dc29fd28bf95459f30906adeb9342)
