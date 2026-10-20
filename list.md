@@ -155,3 +155,4 @@
 - [终端主题配色生成工具，生成终端配色导出配置文件](https://github.com/liu-minwws/IGAGjg/commit/aff0324732984f9fae09cd42e522ee7445aa6938)
 - [面向百度搜索的开源仓库目录结构设计方案](https://github.com/liu-minwws/IGAGjg/commit/c05a6da0e5e3364cb6659623242549ba6b8dff32)
 - [GitHub 表格处理开源项目 可运行源码附带数据导出调试示例](https://github.com/liu-minwws/IGAGjg/commit/6a5c8cefc6a94da1bc37fd5d9fa15dcb0f2e3964)
+- [GitHub 仓库 README 摘要写好提升百度展示效果](https://github.com/liu-minwws/IGAGjg/commit/5e39b261c54de97760f3739844ad8b48f14607a5)
