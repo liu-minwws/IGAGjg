@@ -21,3 +21,4 @@
 - [社区食堂大范围铺开，可持续运营现实难题](https://github.com/liu-minwws/IGAGjg/commit/9dd7a22267ee778fb062e40af97c85ca0bd3ac91)
 - [开源内网穿透工具，被黑产用来隐匿攻击源](https://github.com/liu-minwws/IGAGjg/commit/893e48538de7b6e74e34013e7c8bc0b0948ece36)
 - [GitHub仓库Dependabot配置批量巡检脚本](https://github.com/liu-minwws/IGAGjg/commit/d6fba4eedd78a3f3f852bdb41ecd1b3712de6dcc)
+- [量化算法选型，INT4/INT8业务场景适配](https://github.com/liu-minwws/IGAGjg/commit/1f99407f46178b5772cc45eb80785e53a0db7bc1)
