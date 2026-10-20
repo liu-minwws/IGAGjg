@@ -68,3 +68,4 @@
 - [排查百度蜘蛛抓取 GitHub 镜像返回 502 问题](https://github.com/liu-minwws/IGAGjg/commit/66b9eeb2e707ffcf3612206008f10084a07d46f7)
 - [开源工具文档配置文件逐行注释讲解示例](https://github.com/liu-minwws/IGAGjg/commit/befaf8996dc682ae948fb8a144e2dbe181404c06)
 - [程序员实战开源资源分享 源码开放包含快速接入样例](https://github.com/liu-minwws/IGAGjg/commit/6b20dcbb89c28c473df55e6d8d682e1fdf123b02)
+- [github仓库milestone批量迁移，将里程碑批量迁移至其他仓库](https://github.com/liu-minwws/IGAGjg/commit/d44cbabfee0bd17677eda37a8e5a8e38c4408487)
