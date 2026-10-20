@@ -126,3 +126,4 @@
 - [全栈实战示例开源工程 开放源码包含调试优化完整手册](https://github.com/liu-minwws/IGAGjg/commit/b129324d7b1ca820e4109ff450f6c5a8bb5489c0)
 - [sql 语句格式化开源工程 完整源码 sql 美化格式化输出](https://github.com/liu-minwws/IGAGjg/commit/364209f7f11dc77cbc893eed7e2b9ec7874440fd)
 - [批量资源下载开源项目 完整源码附带下载任务管理逻辑实现](https://github.com/liu-minwws/IGAGjg/commit/fa133724f6778e8b4cc0094d15df4dfa21bfb4cd)
+- [资本疯狂涌入商业航天，距离盈利还很遥远](https://github.com/liu-minwws/IGAGjg/commit/1d77c9205bbb64be2df0ad25796b41d574488606)
