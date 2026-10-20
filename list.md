@@ -165,3 +165,4 @@
 - [RAG知识库版本管理，文档更新召回旧内容](https://github.com/liu-minwws/IGAGjg/commit/1e6c5f52b20691b79f788781d328d4af430ac814)
 - [多租户Agent平台，记忆、工具、数据强隔离方案](https://github.com/liu-minwws/IGAGjg/commit/d9a2273f8e4b74a60fec1ea1e1c32d9be6e490d2)
 - [可复用开源功能组件 源码资源含完整测试演示项目](https://github.com/liu-minwws/IGAGjg/commit/4ea38b56d370747bfd43cefba0c27a933cdc2ff3)
+- [实用开源工具｜高效开发解决方案完整源码与使用教程](https://github.com/liu-minwws/IGAGjg/commit/1485c55c8d924b623640048984a1dbf13ef2bfe0)
