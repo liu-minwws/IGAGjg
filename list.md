@@ -87,3 +87,4 @@
 - [批量图片水印嵌入工具，文字图片水印位置透明度自定义](https://github.com/liu-minwws/IGAGjg/commit/7c0908be1909689724cf5b0039bc50a344d61214)
 - [文件递归查找指定后缀开源仓库 完整源码筛选特定格式文件](https://github.com/liu-minwws/IGAGjg/commit/6339573e97191cb360c8f2d66b162f9d48422b3f)
 - [开源监控告警模板，告警泛滥造成告警疲劳](https://github.com/liu-minwws/IGAGjg/commit/23077f1630c5bcdde847c6abc9c0fdf4a3d761e9)
+- [中小微企业生存压力，关系到大量普通人就业](https://github.com/liu-minwws/IGAGjg/commit/c16aac4379649e45094f651992e3a7e51d7597e6)
