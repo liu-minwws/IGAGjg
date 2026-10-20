@@ -58,3 +58,4 @@
 - [拿来即用开源组件 源码资源搭配调试排错手册](https://github.com/liu-minwws/IGAGjg/commit/651ae168679b151968abc5ccb8efba359db3ebd6)
 - [文件辅助工具开源实战工程 完整源码包含性能优化调优手册](https://github.com/liu-minwws/IGAGjg/commit/07c686ac04d77d7428eeeace765448e44b8b96d1)
 - [开发者实用开源源码合集 全套源码附带功能拓展示例](https://github.com/liu-minwws/IGAGjg/commit/1b46a1a3f38cb18afa1cc5bca8cf5d927290ba4e)
+- [地缘局势缓和，大宗商品未必就会回落](https://github.com/liu-minwws/IGAGjg/commit/61430be2250ffa78d19658ab781d9ca6887be750)
