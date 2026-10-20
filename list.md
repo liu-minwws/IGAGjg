@@ -84,3 +84,4 @@
 - [极简 UI 开源组件库 开源源码搭配页面快速接入实操教程](https://github.com/liu-minwws/IGAGjg/commit/29116b720c9ce8e02ce3e61816ad59abb9cc5114)
 - [家庭应急物资储备普及，居民防灾避险意识](https://github.com/liu-minwws/IGAGjg/commit/8170f62c4849dee2212fd7ae9f74d0d54f3865f5)
 - [内网Web服务探测脚本，扫描内网站点输出清单](https://github.com/liu-minwws/IGAGjg/commit/2ba1912ef524e395e2c92398b3b1a93e33f37b78)
+- [批量图片水印嵌入工具，文字图片水印位置透明度自定义](https://github.com/liu-minwws/IGAGjg/commit/7c0908be1909689724cf5b0039bc50a344d61214)
