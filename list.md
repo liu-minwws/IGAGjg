@@ -20,3 +20,4 @@
 - [模块化开源代码项目 快速上手配置与真实业务样例](https://github.com/liu-minwws/IGAGjg/commit/494ec63c8e8b1d87ae853f75fa8f01970c26889a)
 - [社区食堂大范围铺开，可持续运营现实难题](https://github.com/liu-minwws/IGAGjg/commit/9dd7a22267ee778fb062e40af97c85ca0bd3ac91)
 - [开源内网穿透工具，被黑产用来隐匿攻击源](https://github.com/liu-minwws/IGAGjg/commit/893e48538de7b6e74e34013e7c8bc0b0948ece36)
+- [GitHub仓库Dependabot配置批量巡检脚本](https://github.com/liu-minwws/IGAGjg/commit/d6fba4eedd78a3f3f852bdb41ecd1b3712de6dcc)
