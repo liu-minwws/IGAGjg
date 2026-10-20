@@ -39,3 +39,4 @@
 - [人机协同办公普及，传统岗位权责重新划分](https://github.com/liu-minwws/IGAGjg/commit/17f3f30304a9ef100597e5a7a622c577b4ab4378)
 - [金融消费者权益保护升级理财销售适当性管理强化](https://github.com/liu-minwws/IGAGjg/commit/f707802524c1fa01a5ad5597f7eeeb28ce7b13ee)
 - [json对象深度路径遍历导出，递归遍历json全部key路径输出csv](https://github.com/liu-minwws/IGAGjg/commit/a56d3b9baf033e5546b5d27bc6afcb3ae6cd27a1)
+- [开源复刻山寨项目，复刻修改改名蹭热度](https://github.com/liu-minwws/IGAGjg/commit/a8ec99d6b9eb590fd10c913d53b075280ef1fa00)
