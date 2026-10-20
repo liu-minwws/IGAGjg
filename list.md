@@ -193,3 +193,4 @@
 - [文件 SHA256 完整性校验源码 完整源码校验文件是否被篡改](https://github.com/liu-minwws/IGAGjg/commit/866b4de3c1d9ccbef52d7b14fcd9ff0eb759b69d)
 - [云厂商托管开源项目，增值闭源功能引发社区不满](https://github.com/liu-minwws/IGAGjg/commit/76a5746dbdf22a916c11156ce7a4820cdfce9e24)
 - [高校人才培养和产业岗位需求之间存在的错位问题](https://github.com/liu-minwws/IGAGjg/commit/822bd5d7e9350d3ffb3ed5ac670a3045fa0fe261)
+- [劳动报酬占比提升，对扩大内需的现实意义](https://github.com/liu-minwws/IGAGjg/commit/1941505799720f1d65190a5fb3aa47a18009b61b)
