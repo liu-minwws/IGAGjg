@@ -158,3 +158,4 @@
 - [GitHub 仓库 README 摘要写好提升百度展示效果](https://github.com/liu-minwws/IGAGjg/commit/5e39b261c54de97760f3739844ad8b48f14607a5)
 - [Gitee Pages 部署完成验证爬虫可访问性](https://github.com/liu-minwws/IGAGjg/commit/6e551d7acc7357ebdd441c138b9d5ae1ed9b9722)
 - [物资回收登记开源系统，分类统计回收记录导出报表](https://github.com/liu-minwws/IGAGjg/commit/ee419271d40c2ff1b66685a1cdc985311e768503)
+- [人口流动新格局，城市如何适配新的人口结构发展](https://github.com/liu-minwws/IGAGjg/commit/82f9beaae7b19d907e126eb2c1bc9b8640f9c04d)
