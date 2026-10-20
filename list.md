@@ -137,3 +137,4 @@
 - [影子IT升级影子AI，技术管控体系如何适配](https://github.com/liu-minwws/IGAGjg/commit/3bb3249dba8944ff02dd00169e1483320de9cf4e)
 - [AI生成代码大量涌入开源仓库，维护者审核压力暴增](https://github.com/liu-minwws/IGAGjg/commit/44eb3c5bbc6f03a761553532ae471a507d5fe61d)
 - [文本相似度计算开源源码 完整源码实现文本相似度比对](https://github.com/liu-minwws/IGAGjg/commit/ac9cca5323d2071b6ec88ffafa3508f2bad3dfa4)
+- [GitHub组织内部Fork仓库风险巡检脚本](https://github.com/liu-minwws/IGAGjg/commit/9f10c62a418f0d258b012bcb7053eb899a8f3d06)
