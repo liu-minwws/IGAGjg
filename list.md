@@ -46,3 +46,4 @@
 - [Squash合并丢失作者信息，外部贡献者记录消失](https://github.com/liu-minwws/IGAGjg/commit/0533f18c0853296a0e6532a81a267114774ac5b7)
 - [开源语音克隆仓库，被滥用伪造人声风险](https://github.com/liu-minwws/IGAGjg/commit/502cdb561666d0d2d8bbc8d1a356f3de279b8a09)
 - [冷链物流行业整合行业集中度持续向龙头集中](https://github.com/liu-minwws/IGAGjg/commit/9cfebaf3c51dac59edd078630ff415fc1dca6fbb)
+- [城市最低生活保障，收入核算包含哪些家庭收入](https://github.com/liu-minwws/IGAGjg/commit/655a42ae590dfa29c644e680e6e2969318fa1773)
