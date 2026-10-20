@@ -195,3 +195,4 @@
 - [高校人才培养和产业岗位需求之间存在的错位问题](https://github.com/liu-minwws/IGAGjg/commit/822bd5d7e9350d3ffb3ed5ac670a3045fa0fe261)
 - [劳动报酬占比提升，对扩大内需的现实意义](https://github.com/liu-minwws/IGAGjg/commit/1941505799720f1d65190a5fb3aa47a18009b61b)
 - [家庭部门杠杆过高，会压制居民消费能力](https://github.com/liu-minwws/IGAGjg/commit/71089ddc21a29cbdfdef4aa3ec4b114d49863796)
+- [破坏性变更Breaking Change，开源版本迭代最大矛盾](https://github.com/liu-minwws/IGAGjg/commit/52d1ee1a0e0ad58697a9648858fe2795d80363f5)
