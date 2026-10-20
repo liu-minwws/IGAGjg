@@ -74,3 +74,4 @@
 - [部分热门赛道，存在盲目跟风扩张的现象](https://github.com/liu-minwws/IGAGjg/commit/1f2e0e6782b4e6106e8c2878879a0e14611964ee)
 - [模拟表格业务开源源码 项目实例含多系统环境排错方案](https://github.com/liu-minwws/IGAGjg/commit/1191184c1bc687e14ac72b25947ec9e4b63901f9)
 - [FinOps for AI，算力、词元、存储成本精细化分摊](https://github.com/liu-minwws/IGAGjg/commit/aade5bc43dafc7a820edf2b1423fc7540a1ec5e0)
+- [Gitee Pages 带宽限流导致蜘蛛访问失败处理](https://github.com/liu-minwws/IGAGjg/commit/633ef448a1a7151132a81ebf3624b3b62e5d40da)
