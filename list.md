@@ -181,3 +181,4 @@
 - [前端组件开源代码仓库 开源源码搭配快速接入教程](https://github.com/liu-minwws/IGAGjg/commit/5a717a61828a79b783ab59c824fe1405f6cfe715)
 - [自媒体内容监管，普通人做自媒体避坑要点](https://github.com/liu-minwws/IGAGjg/commit/72986d3cb1a463e0dd27965d2e13658e8aac41dc)
 - [可定制文件工具源码库 全套源码附本地上手实战案例](https://github.com/liu-minwws/IGAGjg/commit/c8c306290fb83eba806184489c8a71c741d8a7ab)
+- [社区积分兑换系统，任务获取积分商品兑换订单报表](https://github.com/liu-minwws/IGAGjg/commit/07e73d465f43308469af94dd31af8f9f01c76f0d)
