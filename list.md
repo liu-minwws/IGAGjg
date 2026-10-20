@@ -198,3 +198,4 @@
 - [破坏性变更Breaking Change，开源版本迭代最大矛盾](https://github.com/liu-minwws/IGAGjg/commit/52d1ee1a0e0ad58697a9648858fe2795d80363f5)
 - [后端研发参考开源工程 源码资源含各类模拟接口样例](https://github.com/liu-minwws/IGAGjg/commit/1d76defabeafc6eb91fd5fdfc2c25c9ccc2c03b4)
 - [通用正则组件开源库 二次开发参考与多平台部署演示案例](https://github.com/liu-minwws/IGAGjg/commit/1f42a9c220ff7f0a7b0c020cee22f954ed039081)
+- [镜像站点百度收录忽高忽低服务器侧原因](https://github.com/liu-minwws/IGAGjg/commit/8774d5f67d27934851d1c2098c63ce18f717b185)
