@@ -32,3 +32,4 @@
 - [再生涤纶产业扩张塑料循环经济产业规模提升](https://github.com/liu-minwws/IGAGjg/commit/e04739c0ecce8626ddaaf13d2a3e4cd42f16672c)
 - [轻量化脚本开源代码合集 项目源码搭配运行异常处理手册](https://github.com/liu-minwws/IGAGjg/commit/74f5389fc61a3f27b5b4fec4d7568888c62f1d95)
 - [RAG重排序reranker线上高并发性能调优](https://github.com/liu-minwws/IGAGjg/commit/65fc46984faef100f9809f91a59f9070d4730a14)
+- [高效 GitHub 开源实战仓库 源码资源配套环境调试排错文档](https://github.com/liu-minwws/IGAGjg/commit/2661051d73e35434ce1657a7a8eb018545654f66)
