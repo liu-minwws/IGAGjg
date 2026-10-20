@@ -145,3 +145,4 @@
 - [百度 sitemap 文件大小与条目数量限制须知](https://github.com/liu-minwws/IGAGjg/commit/fb276a432bd06995d9cbbcecd4625473473ffebc)
 - [本地文本字符编码检测转换，检测文本编码完成转码](https://github.com/liu-minwws/IGAGjg/commit/be127b1e951b146b0cb26289fcb1f9c4ad9e8b48)
 - [AI概念吹得神乎其神，真正盈利企业寥寥无几](https://github.com/liu-minwws/IGAGjg/commit/8ae3a8601d8ff5dfb66d4ba8eb590337c271a2b5)
+- [静态开源博客 sitemap 自动生成配置实操教程](https://github.com/liu-minwws/IGAGjg/commit/de7f9c5e50e3a57401f0107c3456e4ab0e2bd4b8)
