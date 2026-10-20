@@ -185,3 +185,4 @@
 - [开源 README 梳理完整新手学习阅读路线指引](https://github.com/liu-minwws/IGAGjg/commit/459a9ee9f6d733b505b8c5a4fa09ef09435307ad)
 - [HBM供应链波动，AI集群建设带来的行业风险](https://github.com/liu-minwws/IGAGjg/commit/020f606621268e5cfdf80be4342944c1060f0494)
 - [矿山生态修复项目放量环境治理细分赛道迎来机遇](https://github.com/liu-minwws/IGAGjg/commit/6abbf741ecc4e6d5c0efcd9d9ea6e65d34c5003f)
+- [日志敏感数据脱敏组件，拦截身份证手机号防止明文泄露](https://github.com/liu-minwws/IGAGjg/commit/2a0c0e34359e45e19a9b4abd11904a9d9cb5d803)
