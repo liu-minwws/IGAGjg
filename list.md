@@ -175,3 +175,4 @@
 - [低代码平台接入Agent，工具调用越权漏洞治理](https://github.com/liu-minwws/IGAGjg/commit/622680d5032527c278e3297d73501c639abff0c3)
 - [RAG混合检索重排序，reranker线上性能代价](https://github.com/liu-minwws/IGAGjg/commit/bf821f3da7d5477d331bd161404577d1e5e62bcd)
 - [面向百度的开源 README 文档完整撰写模板](https://github.com/liu-minwws/IGAGjg/commit/c8497c0213a70990a06c71b6ddf7863376bcba3d)
+- [git ref引用完整性校验，检测git引用指向对象是否存在](https://github.com/liu-minwws/IGAGjg/commit/faf485c0893e09f8a6f8efe43d3544467b904ba5)
