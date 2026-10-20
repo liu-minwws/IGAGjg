@@ -93,3 +93,4 @@
 - [内存缓存模拟开源仓库 完整源码演示缓存过期淘汰逻辑](https://github.com/liu-minwws/IGAGjg/commit/5b30670da6ee4fa62278a9e974657bef6a3c2895)
 - [RAG知识库权限隔离，不同部门文档访问控制](https://github.com/liu-minwws/IGAGjg/commit/3e95728074e7a90f6703d25a28003cfd79adeab1)
 - [开源知识库更新内容调用百度推送 API](https://github.com/liu-minwws/IGAGjg/commit/4afedf20046893e9f044dd06f3666d457e03128d)
+- [websocket 会话管理源码 完整源码维护 websocket 连接会话池](https://github.com/liu-minwws/IGAGjg/commit/8aea33fb5d96d78835018f13f0e12cd0cb8435cd)
