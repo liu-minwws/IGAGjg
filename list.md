@@ -27,3 +27,4 @@
 - [AI辅助储能新材料筛选，仿真算力开销控制](https://github.com/liu-minwws/IGAGjg/commit/bba9078a0f806ae947776ac054e937af3832a43b)
 - [提示词注入攻击泛滥，企业大模型应用防护手段](https://github.com/liu-minwws/IGAGjg/commit/d601994c6f7affa3b1bac5de501b84cfd68bb803)
 - [国债投资热度走高普通投资者参与国债渠道梳理](https://github.com/liu-minwws/IGAGjg/commit/0025cdad00afeb992827cf2a21d6f85fb6cac147)
+- [农产品价格波动，关乎农民收入与物价稳定](https://github.com/liu-minwws/IGAGjg/commit/d26a07589a38af719c76a3b69f54ab216ee0446a)
