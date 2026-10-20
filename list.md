@@ -156,3 +156,4 @@
 - [面向百度搜索的开源仓库目录结构设计方案](https://github.com/liu-minwws/IGAGjg/commit/c05a6da0e5e3364cb6659623242549ba6b8dff32)
 - [GitHub 表格处理开源项目 可运行源码附带数据导出调试示例](https://github.com/liu-minwws/IGAGjg/commit/6a5c8cefc6a94da1bc37fd5d9fa15dcb0f2e3964)
 - [GitHub 仓库 README 摘要写好提升百度展示效果](https://github.com/liu-minwws/IGAGjg/commit/5e39b261c54de97760f3739844ad8b48f14607a5)
+- [Gitee Pages 部署完成验证爬虫可访问性](https://github.com/liu-minwws/IGAGjg/commit/6e551d7acc7357ebdd441c138b9d5ae1ed9b9722)
