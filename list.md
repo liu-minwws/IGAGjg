@@ -64,3 +64,4 @@
 - [文件批量更改所有者工具，递归修改目录文件属主属组](https://github.com/liu-minwws/IGAGjg/commit/f2f5bfe8128de1eac540fcf134ee3e38e317a793)
 - [Gitee Pages 开启强制 HTTPS 重定向注意事项](https://github.com/liu-minwws/IGAGjg/commit/42df9739d02c9227ff2c268f857c171054bf094c)
 - [辅助工具开源实战工程 完整源码包含参数调优优化手册](https://github.com/liu-minwws/IGAGjg/commit/4b6f3115bdd4b32d491e7ec440d81a0d5a34c715)
+- [开发辅助开源实战工程 完整源码包含参数调优优化指南](https://github.com/liu-minwws/IGAGjg/commit/f6baa9049ca8e6384198817fc575e0ac3e20b6d4)
