@@ -131,3 +131,4 @@
 - [居家康复服务普及，上门康复医疗风险管控](https://github.com/liu-minwws/IGAGjg/commit/a28ef2c1aeeb2e16131c6a123d3b635b351ff75e)
 - [批量文本词频统计工程 完整源码统计文件字符行数](https://github.com/liu-minwws/IGAGjg/commit/a4ac5d274faffe617fb5396467ea6ce12c28b6a1)
 - [开源选型评估，Star高但Issue大量无人回复](https://github.com/liu-minwws/IGAGjg/commit/d69895a2dd6d1aa10183d21e426b48bec7a7d04f)
+- [后量子密码迁移，AI服务密码算法改造方案](https://github.com/liu-minwws/IGAGjg/commit/32c3229b35ef7e83c257a01765ce3e3fb175b39b)
