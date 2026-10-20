@@ -78,3 +78,4 @@
 - [中文开源项目提升搜索结果点击率的方法](https://github.com/liu-minwws/IGAGjg/commit/65050feca843caf3232245aa5d29a244ac5c1125)
 - [工业母机利好不断，实质性产业化突破尚遥远](https://github.com/liu-minwws/IGAGjg/commit/91d0290522d739c47dc06376b83f190483abbc69)
 - [k8s pod资源使用统计导出，导出pod cpu内存使用统计csv](https://github.com/liu-minwws/IGAGjg/commit/80ce6a8ad5bf84cc0efc253687694040028cd0bd)
+- [稀土战略资源管控强化产业链上下游格局重塑](https://github.com/liu-minwws/IGAGjg/commit/17fccd84310855a7c4073e100d83fc0d18b3d430)
