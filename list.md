@@ -196,3 +196,4 @@
 - [劳动报酬占比提升，对扩大内需的现实意义](https://github.com/liu-minwws/IGAGjg/commit/1941505799720f1d65190a5fb3aa47a18009b61b)
 - [家庭部门杠杆过高，会压制居民消费能力](https://github.com/liu-minwws/IGAGjg/commit/71089ddc21a29cbdfdef4aa3ec4b114d49863796)
 - [破坏性变更Breaking Change，开源版本迭代最大矛盾](https://github.com/liu-minwws/IGAGjg/commit/52d1ee1a0e0ad58697a9648858fe2795d80363f5)
+- [后端研发参考开源工程 源码资源含各类模拟接口样例](https://github.com/liu-minwws/IGAGjg/commit/1d76defabeafc6eb91fd5fdfc2c25c9ccc2c03b4)
