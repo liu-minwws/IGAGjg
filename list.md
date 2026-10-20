@@ -122,3 +122,4 @@
 - [经济转型期，个人很难对抗大周期，只能顺势调整](https://github.com/liu-minwws/IGAGjg/commit/20a0ea09720a8db6b1b9ecadb33c8477b0f41191)
 - [数据库唯一索引幂等 Demo 完整源码数据库层面防止重复请求](https://github.com/liu-minwws/IGAGjg/commit/abe765d13e21856483a9052ff3b622851fe94141)
 - [服务网格性能开销，Sidecar代理资源损耗实测](https://github.com/liu-minwws/IGAGjg/commit/e8d63d05a4436f8de018e6f28fe3d20aa1d30d83)
+- [新旧动能交替阶段，部分行业必然经历阵痛](https://github.com/liu-minwws/IGAGjg/commit/eeea16bf6ef2203af681cca9d49e3489c5477b5b)
