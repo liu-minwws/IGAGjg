@@ -67,3 +67,4 @@
 - [开发辅助开源实战工程 完整源码包含参数调优优化指南](https://github.com/liu-minwws/IGAGjg/commit/f6baa9049ca8e6384198817fc575e0ac3e20b6d4)
 - [排查百度蜘蛛抓取 GitHub 镜像返回 502 问题](https://github.com/liu-minwws/IGAGjg/commit/66b9eeb2e707ffcf3612206008f10084a07d46f7)
 - [开源工具文档配置文件逐行注释讲解示例](https://github.com/liu-minwws/IGAGjg/commit/befaf8996dc682ae948fb8a144e2dbe181404c06)
+- [程序员实战开源资源分享 源码开放包含快速接入样例](https://github.com/liu-minwws/IGAGjg/commit/6b20dcbb89c28c473df55e6d8d682e1fdf123b02)
