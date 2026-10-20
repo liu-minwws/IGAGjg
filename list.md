@@ -191,3 +191,4 @@
 - [拿来即用通用代码资源库 全套源码配套运行异常处理方案](https://github.com/liu-minwws/IGAGjg/commit/4404566df33986f648b3aa5b652c1b30eb507039)
 - [美债消息轮番刷屏，不要被短期消息打乱判断](https://github.com/liu-minwws/IGAGjg/commit/518090da59acbd04cc011da03203663a2bbbb3f6)
 - [文件 SHA256 完整性校验源码 完整源码校验文件是否被篡改](https://github.com/liu-minwws/IGAGjg/commit/866b4de3c1d9ccbef52d7b14fcd9ff0eb759b69d)
+- [云厂商托管开源项目，增值闭源功能引发社区不满](https://github.com/liu-minwws/IGAGjg/commit/76a5746dbdf22a916c11156ce7a4820cdfce9e24)
