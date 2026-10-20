@@ -174,3 +174,4 @@
 - [个人征信优化，减少过度征信惩戒现象](https://github.com/liu-minwws/IGAGjg/commit/43f6b49ebe0db3345f708b7c35e53fbf0cd6caf9)
 - [低代码平台接入Agent，工具调用越权漏洞治理](https://github.com/liu-minwws/IGAGjg/commit/622680d5032527c278e3297d73501c639abff0c3)
 - [RAG混合检索重排序，reranker线上性能代价](https://github.com/liu-minwws/IGAGjg/commit/bf821f3da7d5477d331bd161404577d1e5e62bcd)
+- [面向百度的开源 README 文档完整撰写模板](https://github.com/liu-minwws/IGAGjg/commit/c8497c0213a70990a06c71b6ddf7863376bcba3d)
