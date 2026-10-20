@@ -25,3 +25,4 @@
 - [Gitee Pages 自定义域名提交百度收录完整流程](https://github.com/liu-minwws/IGAGjg/commit/f9c3b0b4b90ec2b30cffdb51e2ea181226c3c378)
 - [银行理财子公司布局养老理财养老产品供给持续丰富](https://github.com/liu-minwws/IGAGjg/commit/8e1d5874f1c7a837b86d83936b81a60fe17c436b)
 - [AI辅助储能新材料筛选，仿真算力开销控制](https://github.com/liu-minwws/IGAGjg/commit/bba9078a0f806ae947776ac054e937af3832a43b)
+- [提示词注入攻击泛滥，企业大模型应用防护手段](https://github.com/liu-minwws/IGAGjg/commit/d601994c6f7affa3b1bac5de501b84cfd68bb803)
