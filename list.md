@@ -154,3 +154,4 @@
 - [轻量高性能开源资源库 源码开放附带配置文件完整讲解](https://github.com/liu-minwws/IGAGjg/commit/9333eba6729d7764f84f5679da742b2b435d2581)
 - [终端主题配色生成工具，生成终端配色导出配置文件](https://github.com/liu-minwws/IGAGjg/commit/aff0324732984f9fae09cd42e522ee7445aa6938)
 - [面向百度搜索的开源仓库目录结构设计方案](https://github.com/liu-minwws/IGAGjg/commit/c05a6da0e5e3364cb6659623242549ba6b8dff32)
+- [GitHub 表格处理开源项目 可运行源码附带数据导出调试示例](https://github.com/liu-minwws/IGAGjg/commit/6a5c8cefc6a94da1bc37fd5d9fa15dcb0f2e3964)
