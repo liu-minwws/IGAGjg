@@ -29,3 +29,4 @@
 - [国债投资热度走高普通投资者参与国债渠道梳理](https://github.com/liu-minwws/IGAGjg/commit/0025cdad00afeb992827cf2a21d6f85fb6cac147)
 - [农产品价格波动，关乎农民收入与物价稳定](https://github.com/liu-minwws/IGAGjg/commit/d26a07589a38af719c76a3b69f54ab216ee0446a)
 - [开源工具实战源码集 完整实现代码与故障排查方案](https://github.com/liu-minwws/IGAGjg/commit/98288a7303e7fac762003c9e7451dfc2fcf0dcd1)
+- [再生涤纶产业扩张塑料循环经济产业规模提升](https://github.com/liu-minwws/IGAGjg/commit/e04739c0ecce8626ddaaf13d2a3e4cd42f16672c)
