@@ -82,3 +82,4 @@
 - [Squash Merge Rebase三种合并模式该如何选择](https://github.com/liu-minwws/IGAGjg/commit/b659561edd4ced99c4a86b69ef9a1e3b7a6eda81)
 - [城市绿道建设后期管护资金缺口](https://github.com/liu-minwws/IGAGjg/commit/63dd22b92bc8074487da49ab8583f323b2b8ce65)
 - [极简 UI 开源组件库 开源源码搭配页面快速接入实操教程](https://github.com/liu-minwws/IGAGjg/commit/29116b720c9ce8e02ce3e61816ad59abb9cc5114)
+- [家庭应急物资储备普及，居民防灾避险意识](https://github.com/liu-minwws/IGAGjg/commit/8170f62c4849dee2212fd7ae9f74d0d54f3865f5)
