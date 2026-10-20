@@ -50,3 +50,4 @@
 - [产业政策需要精准，区分不同行业企业的现实处境](https://github.com/liu-minwws/IGAGjg/commit/d79e2a17f9a170a4da0a2584a8fd6fafca88bfa6)
 - [开源参考实战业务案例 源码开放附带线上调试指南](https://github.com/liu-minwws/IGAGjg/commit/9292f14ad2afc1ec9c2973929d4b36ceba9a0499)
 - [简易 rpc 模拟开源仓库 完整源码模拟远程调用基础流程](https://github.com/liu-minwws/IGAGjg/commit/a95ae0b5ebbe7f0ae8f733dffe8be296babadc76)
+- [开发者实用开源源码项目 全套源码包含自定义改造示例](https://github.com/liu-minwws/IGAGjg/commit/ac272b3b67917e82bd287d1bb6e34570b78e3b8a)
