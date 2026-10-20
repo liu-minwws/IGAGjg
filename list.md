@@ -117,3 +117,4 @@
 - [GitHub Sponsors赞助，国内开发者收款障碍](https://github.com/liu-minwws/IGAGjg/commit/7875882b0b82475ce59e8c5da1b0c58849867c1c)
 - [本地简易socks5客户端调试工具，测试socks5代理连通与延时](https://github.com/liu-minwws/IGAGjg/commit/b7d8544bf3d50f9e27328ff7c27aa917b7dde0cf)
 - [windows快捷方式批量修复，批量修复损坏lnk快捷方式](https://github.com/liu-minwws/IGAGjg/commit/764fa437c6c43ca7891604c23cb607081b371371)
+- [Agent输出容错降级，非标准结构化输出处理](https://github.com/liu-minwws/IGAGjg/commit/67b79bd1fb7ad037d5f293def93416309a6c74af)
