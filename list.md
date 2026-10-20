@@ -60,3 +60,4 @@
 - [开发者实用开源源码合集 全套源码附带功能拓展示例](https://github.com/liu-minwws/IGAGjg/commit/1b46a1a3f38cb18afa1cc5bca8cf5d927290ba4e)
 - [地缘局势缓和，大宗商品未必就会回落](https://github.com/liu-minwws/IGAGjg/commit/61430be2250ffa78d19658ab781d9ca6887be750)
 - [社区安宁疗护临终关怀缺口](https://github.com/liu-minwws/IGAGjg/commit/5794f231730c4a0fe48644509fca8712993f935e)
+- [windows网络适配器配置导出，批量导出网卡ip dns配置信息](https://github.com/liu-minwws/IGAGjg/commit/73a08070f09550e1c3743a8e0370b52254ebbaef)
