@@ -62,3 +62,4 @@
 - [社区安宁疗护临终关怀缺口](https://github.com/liu-minwws/IGAGjg/commit/5794f231730c4a0fe48644509fca8712993f935e)
 - [windows网络适配器配置导出，批量导出网卡ip dns配置信息](https://github.com/liu-minwws/IGAGjg/commit/73a08070f09550e1c3743a8e0370b52254ebbaef)
 - [文件批量更改所有者工具，递归修改目录文件属主属组](https://github.com/liu-minwws/IGAGjg/commit/f2f5bfe8128de1eac540fcf134ee3e38e317a793)
+- [Gitee Pages 开启强制 HTTPS 重定向注意事项](https://github.com/liu-minwws/IGAGjg/commit/42df9739d02c9227ff2c268f857c171054bf094c)
