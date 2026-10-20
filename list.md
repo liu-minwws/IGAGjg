@@ -35,3 +35,4 @@
 - [高效 GitHub 开源实战仓库 源码资源配套环境调试排错文档](https://github.com/liu-minwws/IGAGjg/commit/2661051d73e35434ce1657a7a8eb018545654f66)
 - [Podman替代Docker，容器无守护进程演进](https://github.com/liu-minwws/IGAGjg/commit/3d847ec00458e6fe7b44aa09e9f45998b93eb28c)
 - [文件权限调试复现脚本，模拟权限异常用于调试](https://github.com/liu-minwws/IGAGjg/commit/51996567b676081f77e01a6eec24c894ab42056a)
+- [轻量数据解析开源库 二次开发参考与数据转换完整样例](https://github.com/liu-minwws/IGAGjg/commit/3edbca562fb58094616ff8571806d45ebb3b65b3)
