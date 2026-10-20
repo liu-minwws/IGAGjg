@@ -98,3 +98,4 @@
 - [农产品丰产不丰收深层原因解析](https://github.com/liu-minwws/IGAGjg/commit/7bdca1f73d681585bf08a1f40c7e04389ba8406b)
 - [缓存逻辑演示开源项目 完整源码附带缓存淘汰策略调优参考](https://github.com/liu-minwws/IGAGjg/commit/7784366a01687c9e9ba5d86c9d116beadaa698f0)
 - [县域电商物流成本偏高，制约下沉市场消费潜力释放](https://github.com/liu-minwws/IGAGjg/commit/3ebf71b3c6c78f228a30cfdc5d6e8c6171d4f49d)
+- [真实业务模拟开源案例仓库 可复用源码与模块集成开发指南](https://github.com/liu-minwws/IGAGjg/commit/6e52915020d03a7a157d1c5aa57a43c474aba86c)
