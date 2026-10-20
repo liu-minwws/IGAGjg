@@ -73,3 +73,4 @@
 - [家庭财产传承新规，房产存款继承流程简化](https://github.com/liu-minwws/IGAGjg/commit/09669bc99c05f7a8730aa85c5f76a35311b38ec7)
 - [部分热门赛道，存在盲目跟风扩张的现象](https://github.com/liu-minwws/IGAGjg/commit/1f2e0e6782b4e6106e8c2878879a0e14611964ee)
 - [模拟表格业务开源源码 项目实例含多系统环境排错方案](https://github.com/liu-minwws/IGAGjg/commit/1191184c1bc687e14ac72b25947ec9e4b63901f9)
+- [FinOps for AI，算力、词元、存储成本精细化分摊](https://github.com/liu-minwws/IGAGjg/commit/aade5bc43dafc7a820edf2b1423fc7540a1ec5e0)
