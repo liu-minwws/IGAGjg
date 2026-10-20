@@ -183,3 +183,4 @@
 - [可定制文件工具源码库 全套源码附本地上手实战案例](https://github.com/liu-minwws/IGAGjg/commit/c8c306290fb83eba806184489c8a71c741d8a7ab)
 - [社区积分兑换系统，任务获取积分商品兑换订单报表](https://github.com/liu-minwws/IGAGjg/commit/07e73d465f43308469af94dd31af8f9f01c76f0d)
 - [开源 README 梳理完整新手学习阅读路线指引](https://github.com/liu-minwws/IGAGjg/commit/459a9ee9f6d733b505b8c5a4fa09ef09435307ad)
+- [HBM供应链波动，AI集群建设带来的行业风险](https://github.com/liu-minwws/IGAGjg/commit/020f606621268e5cfdf80be4342944c1060f0494)
